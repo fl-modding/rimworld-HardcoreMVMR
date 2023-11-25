@@ -1,4 +1,4 @@
-# # Hardcore - More Vanilla Mineable Resources <img src="https://i.imgur.com/aA24Fne.png" title="" alt="" width="40">
+# Hardcore - More Vanilla Mineable Resources <img src="https://i.imgur.com/aA24Fne.png" title="" alt="" width="40">
 
 ## Mod that adjust's the amount of resources you receive when mining vanilla resources.
 
